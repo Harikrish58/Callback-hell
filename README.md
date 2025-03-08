@@ -1,0 +1,1 @@
+This repository demonstrates the antipattern of callback hell through a countdown implementation, transitioning from 10 to 1, followed by the display of congratulatory messages. It serves as an illustrative example of the challenges associated with deeply nested asynchronous operations.
